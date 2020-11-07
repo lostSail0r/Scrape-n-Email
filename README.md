@@ -1,3 +1,6 @@
+Headline and URL Scraper with built-in automatic email reporting<br>
+Python/Tkinter and Windows .bat<br><br>
+
 ***DOUBLE CLICK MAIN.PY to start program***<br><br>
 
 scrapes news headlines/urls,craigslist job posts, and exports RCP news into CSV file - Then sends them all (2 text files and 1 excel spreadsheet) as an email attachment<br>
