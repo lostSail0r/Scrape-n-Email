@@ -15,3 +15,5 @@ http://caspian.dotconf.net/<br>
 http://www.tsheets.com/***<br>
 
 ^^Python and Batch files are my original code, but I downloaded and integrated the sendEmail tool into the batch script - Just wanted to make sure he receives credit for the program that actually sends the email^^
+
+<img src="https://rb.gy/grqfu8">
