@@ -1,5 +1,4 @@
-Headline and URL Scraper with built-in automatic email reporting<br>
-Python/Tkinter and Windows .bat<br><br>
+Headline and URL Scraper with built-in automatic email reporting - Python/Tkinter and Windows .bat<br><br>
 
 <hr><img src="http://cgfixit.com/img/scrapeNemail.png"><hr>
 
@@ -10,10 +9,10 @@ scrapes news headlines/urls,craigslist job posts, and exports RCP news into CSV 
 *Please note even slight changes to website code will break the scrape if it is expecting objects that have been removed/re-named, but they are usually pretty easy to fix. 
 <br>It looks like the RCP scrape may already be broken but the clistScraper still works wonders (love you craiglists for never changing) and the rest can be used as a template (Works on multiple versions but I recently confirmed still works on Python 3.7, although you will need dependencies like beautifulsoup installed<br><br>
 
-***sendEmail.exe credit goes to:<br>
+<hr>***sendEmail.exe credit goes to:<br>
 sendEmail - Send email from a console near you!<br>
 Written by: Brandon Zehm <caspian@dotconf.net><br>
 http://caspian.dotconf.net/<br>
-http://www.tsheets.com/***<br>
+http://www.tsheets.com/***<br><hr>
 
 ^^Python and Batch files are my original code, but I downloaded and integrated the sendEmail tool into the batch script - Just wanted to make sure he receives credit for the program that actually sends the email^^
