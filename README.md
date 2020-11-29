@@ -2,7 +2,7 @@ Headline and URL Scraper with built-in automatic email reporting - Python/Tkinte
 
 <hr><img src="http://cgfixit.com/img/scrapeNemail.png"><hr>
 
-***DOUBLE CLICK MAIN.PY to start program***<hr>You will notice if you change nothing cmd will give you path errors; just update the paths to where the unzipped Scrape-n-Email folder is located and it should work<br><br>
+***DOUBLE CLICK MAIN.PY to start program***<hr>Just update the email address info and file paths in the email.bat to your email and where the unzipped Scrape-n-Email folder is located and it should work<hr><br>
 
 scrapes news headlines/urls,craigslist job posts, and exports RCP news into CSV file - Then sends them all (2 text files and 1 excel spreadsheet) as an email attachment<br>
 
