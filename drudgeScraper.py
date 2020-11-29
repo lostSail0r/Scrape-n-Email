@@ -1,4 +1,4 @@
-#Ignore the name of this module; I am just being lazy and this is a template after all - I originally started this by scraping druge but now just use the scrape function for RCP
+#Ignore the name of this module; I am just being lazy - I originally started this by scraping druge but now just use the scrape function for RCP
 
 from bs4 import BeautifulSoup
 import requests, io, csv, sys
