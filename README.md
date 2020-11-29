@@ -13,6 +13,5 @@ sendEmail.exe credit goes to:<br>
 sendEmail - Send email from a console near you!<br>
 Written by: Brandon Zehm <caspian@dotconf.net><br>
 http://caspian.dotconf.net/<br>
-<br>
 
 ^^Python and Batch files are my original code, but I downloaded and integrated the sendEmail tool into the batch script - Just wanted to make sure he receives credit for the program that actually sends the email^^<HR>
