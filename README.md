@@ -2,7 +2,7 @@
 
 <hr><img src="http://cgfixit.com/img/scrapeNemail.png"><hr>
 
-***DOUBLE CLICK MAIN.PY to start program***<hr>Just update the email address info and file paths in the email.bat to your email and where the unzipped Scrape-n-Email folder is located and it will work<hr>
+***DOUBLE CLICK MAIN.PY to start program OR run init.bat as scheduled task to fully automate***<hr>Just update the email address info and file paths in the email.bat to your email and where the unzipped Scrape-n-Email folder is located and it will work<hr>
 
 scrapes news headlines/urls,craigslist job posts into txt files, and exports RCP news into CSV file - Then sends them all (2 text files and 1 excel spreadsheet) as an email attachment
 
