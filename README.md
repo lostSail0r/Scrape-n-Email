@@ -1,6 +1,8 @@
 <hr>Headline and URL Scraper with built-in automatic email reporting - Python/Tkinter and Windows .bat<br>
 
-<hr><img src="http://cgfixit.com/img/scrapeNemail.png"><hr>
+<hr>
+<img src="http://cgfixit.com/img/scrapeNemail.png"><br><img src="http://cgfixit.com/img/scrapeNemail2.png">
+<hr>
 
 ***DOUBLE CLICK MAIN.PY to start program OR run init.bat as scheduled task to fully automate***<hr>Just update the email address info and file paths in the email.bat to your email and where the unzipped Scrape-n-Email folder is located and it will work<hr>
 
