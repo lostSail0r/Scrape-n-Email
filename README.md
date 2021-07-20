@@ -1,4 +1,4 @@
-<hr>Headline and URL Scraper with built-in automatic email reporting - Python/Tkinter and Windows .bat<br>
+<hr>Headline and URL Scraper with built-in email reporting - Python/Tkinter and Windows .bat<br>
 
 <hr>
 <img src="http://cgfixit.com/img/scrapeNemail.png"><br><img src="http://cgfixit.com/img/scrapeNemail2.png">
